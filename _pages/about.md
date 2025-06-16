@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection](https://arxiv.org/abs/2412.01101)
 
-**Delong Zhu**, Yuezun Li, Baoyuan Wu, Jiaran Zhou, Zhibo Wang, Siwei Lyu
+**Delong Zhu**, Yuezun Li*, Baoyuan Wu, Jiaran Zhou, Zhibo Wang, Siwei Lyu
 
 [**Code**](https://github.com/OUC-VAS/FacePoison) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Extended from ICME 2023. 
@@ -45,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Forensics Adapter: Unleashing CLIP for Generalizable Face Forgery Detection](https://arxiv.org/abs/2411.19715)
 
-Xinjie Cui, Yuezun Li, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
+Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
 [**Code**](https://github.com/OUC-VAS/ForensicsAdapter) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Extended from CVPR 2025. 
