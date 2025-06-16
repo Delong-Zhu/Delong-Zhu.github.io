@@ -24,7 +24,7 @@ I am a second-year Master's student at the College of Computer Science and Techn
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 One paper [Forensics Adapter](https://arxiv.org/abs/2411.19715) regarding Deepfake Detection has been uploaded to arXiv. 
-- *2024.12*: &nbsp;🎉🎉 One paper [FacePoison](https://arxiv.org/abs/2412.01101) regarding Proactive Deepfake Defence has been uploaded to arXiv. 
+- *2024.12*: &nbsp;🎉🎉 One paper [FacePoison](https://arxiv.org/abs/2412.01101) regarding Proactive Deepfake Defense has been uploaded to arXiv. 
 
 # 📝 Publications 
 
@@ -50,7 +50,7 @@ Xinjie Cui, Yuezun Li*, **Delong Zhu**, Jiaran Zhou, Junyu Dong, Siwei Lyu
 
 [**Code**](https://github.com/OUC-VAS/FacePoison) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Extended from ICME 2023.
-- Proactive Deepfake Defence.
+- Proactive Deepfake Defense.
 </div>
 </div>
 
