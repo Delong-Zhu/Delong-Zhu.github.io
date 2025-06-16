@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/overview/FacePoison.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='./images/overview/FacePoison.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection](https://arxiv.org/abs/2412.01101)
@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/overview/ForensicsAdapter++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='./images/overview/ForensicsAdapter++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Forensics Adapter: Unleashing CLIP for Generalizable Face Forgery Detection](https://arxiv.org/abs/2411.19715)
