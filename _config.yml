@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Delong Zhu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ocean University of China"
+  bio              : #"Ocean University of China"
   location         : "Qingdao, China"
-  employer         :
+  employer         : "Ocean University of China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=UNd2St8AAAAJ"
   email            : "zhudelong@stu.ouc.edu.cn"
