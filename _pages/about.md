@@ -23,10 +23,24 @@ I am a second-year Master's student at the School of Computer Science and Techno
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 One paper [Celeb-DF++](https://hisssec.github.io/) regarding Deepfakes has been uploaded to arXiv. 
 - *2025.05*: &nbsp;🎉🎉 One paper [Forensics Adapter](https://arxiv.org/abs/2411.19715) regarding Deepfake Detection has been uploaded to arXiv. 
 - *2024.12*: &nbsp;🎉🎉 One paper [FacePoison](https://arxiv.org/abs/2412.01101) regarding Proactive Deepfake Defense has been uploaded to arXiv. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='./images/overview/Celeb-DF++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Celeb-DF++: A Large-scale Challenging Video DeepFake Benchmark for Generalizable Forensics](https://hisssec.github.io/)
+
+Yuezun Li*, **Delong Zhu**, Xinjie Cui, Siwei Lyu
+
+[**Code**](https://github.com/OUC-VAS/Celeb-DF-PP) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Extended from CVPR 2020.
+- Deepfakes.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='./images/overview/ForensicsAdapter++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
